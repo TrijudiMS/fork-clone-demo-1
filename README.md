@@ -11,3 +11,4 @@ helo 123
 helo 321
 
 helo 432
+ayam goreng
